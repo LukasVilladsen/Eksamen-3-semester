@@ -1,0 +1,15 @@
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\bin\Debug\net6.0\Funktionelprog.exe
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\bin\Debug\net6.0\Funktionelprog.deps.json
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\bin\Debug\net6.0\Funktionelprog.runtimeconfig.json
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\bin\Debug\net6.0\Funktionelprog.dll
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\bin\Debug\net6.0\Funktionelprog.pdb
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.csproj.AssemblyReference.cache
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.dll
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\refint\Funktionelprog.dll
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.pdb
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\Funktionelprog.genruntimeconfig.cache
+C:\Users\Lukas\Desktop\Softwarearkitektur\Modul2\Funktionelprog\Funktionelprog\obj\Debug\net6.0\ref\Funktionelprog.dll
