@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4301A849-9368-43AA-8B75-1CC27561FBBE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DummyAuthenticationHandler.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="DummyAuthenticationHandler.cs" Line="52" Column="66" />
+      <File FileName="Properties/launchSettings.json" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="secure-api" expanded="True">
+            <Node name="secure-api" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="DummyAuthenticationHandler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.secure-api PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
